@@ -3,6 +3,8 @@
 
 ![Stat_Arb_Pairs](https://user-images.githubusercontent.com/87500491/170875430-93343cd6-2a86-4ff1-a2ba-e7ff5028b299.png)
 
+<img width="593" alt="Screenshot 2022-05-30 at 16 10 07" src="https://user-images.githubusercontent.com/87500491/171020461-0c26666a-fd9a-43f1-ab89-1f79c771f934.png">
+
 
 A project which performs a basic statistical arbitrage trading strategy based on the spread of two equites. Positions are opened and closed based on where the spread has dropped below a period 15 lower Bollinger band.
 
