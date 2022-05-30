@@ -27,6 +27,7 @@ The cumulative returns of the strategy above are shown in the chart below. The s
 Arbitrage using DLC'S
 
 A DLC is a Dual-Listed Company. This is a company which has a stock listed on more than one exchange. As exchanges are independent and markets are not perfect price discrepancies will arise. Are very common example of a dual-listed stock is GOOG and GOOGL. Below shows the performance of my startgey on the GOOG and GOOGL pair. I have shown the spread, positions and returns of the backtest.
+
 <img width="916" alt="Screenshot 2022-05-30 at 21 33 25" src="https://user-images.githubusercontent.com/87500491/171056357-5a1fc80a-e1a0-4ca3-865a-1b189bec47b1.png">
 <img width="593" alt="Screenshot 2022-05-30 at 21 33 41" src="https://user-images.githubusercontent.com/87500491/171056396-e9414fc5-9abf-4bf4-b790-b7d2a34eea65.png">
 <img width="594" alt="Screenshot 2022-05-30 at 21 33 51" src="https://user-images.githubusercontent.com/87500491/171056417-bfba98c3-d08b-42f7-9078-53d4d313a07e.png">
