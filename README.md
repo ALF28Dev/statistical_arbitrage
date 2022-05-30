@@ -36,3 +36,5 @@ Arbitrage using Indices
 #   Furthur improvements
 * Research cointegration
 * Develop platform to manage statarb positions
+* Research sharpe ratios to measure performance
+
