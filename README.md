@@ -34,6 +34,8 @@ A DLC is a Dual-Listed Company. This is a company with a stock listed on more th
 
 Arbitrage using Indices
 
+Indices are portfolios of stocks that move based on the portfolio's overall performance. Different indices can contain the same stocks. Therefore, they are likely to have the same performance over time. As indices have the same stocks, they have a high level of correlation, meaning it is potentially possible to profit when the indices diverge.
+
 #   Furthur improvements
 * Research cointegration
 * Develop platform to manage statarb positions
