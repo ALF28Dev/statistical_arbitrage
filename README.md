@@ -1,8 +1,8 @@
 #   Statistical Arbitrage
 
-Recently I have taken an interest in statistical arbitrage after reading the chapter about arbitrage within the book "Machine Learning For Algorithmic Trading". I have designed a basic startegy which is based on the correlation of two stocks. If two stocks have a high amount of correlation then they are more likely to move in the same direction or in the same patterns.
+I recently became interested in statistical arbitrage after reading the chapter about arbitrage in the book "Machine Learning For Algorithmic Trading". I have designed a basic strategy based on the correlation of two stocks. If two stocks have a high correlation, they are more likely to move in the same direction or the same patterns.
 
-To profit within this startegy we must track the spread between the stocks. By buying and selling the stocks within the pair we are able to trade the spread. The spread of two stocks can be shown below with the bollinger band technical indicator.
+To profit from this strategy, we must track the spread between the stocks. We can trade the spread by buying and selling the stocks within the pair. An example spread is shown below with a bollinger band indicator.
 
 ![Stat_Arb_Pairs](https://user-images.githubusercontent.com/87500491/170875430-93343cd6-2a86-4ff1-a2ba-e7ff5028b299.png)
 
